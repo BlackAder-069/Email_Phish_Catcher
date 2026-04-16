@@ -1,0 +1,14 @@
+For Backend (Open one terminal)- 
+ 
+cd backend
+uvicorn main:app --reload
+
+For frontend (Open in another terminal) - 
+
+cd dashboard
+streamlit run app.py
+
+Send the desired mail - 
+
+cd email_sender
+python send_email

@@ -1,0 +1,7 @@
+fastapi
+requests
+yara-python
+uvicorn
+streamlit
+requests
+python-dotenv
